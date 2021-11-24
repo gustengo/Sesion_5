@@ -1,0 +1,32 @@
+* {
+    background: beige;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+}
+
+.cajas {
+    width: 350px;
+    height: 150px;
+    text-align: center;
+    margin: 30px;
+}
+
+#primer-cuadro {
+    border: dotted red 5px;
+}
+
+#segundo-cuadro {
+    border-top: dashed 5px blueviolet;
+    border-bottom: dashed 5px blueviolet;
+    border-left: solid 5px greenyellow;
+    border-right: solid 5px greenyellow;
+}
+
+#tercer-cuadro {
+    border-top: dashed 5px lightcoral;
+    border-right: groove 5px;
+    border-left: dotted 5px lightpink;
+}
